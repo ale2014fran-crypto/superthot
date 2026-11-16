@@ -1,4 +1,3 @@
-name: Get Unity License
 on: workflow_dispatch
 jobs:
   activation:
